@@ -1,0 +1,22 @@
+Ось список з 20 уроків англійською мовою:
+
+1. Mathematics
+2. English Literature
+3. Biology
+4. Chemistry
+5. Physics
+6. History
+7. Geography
+8. Physical Education
+9. Art
+10. Music
+11. Computer Science
+12. Economics
+13. Psychology
+14. Sociology
+15. Political Science
+16. Philosophy
+17. Drama
+18. French
+19. Spanish
+20. Environmental Science
